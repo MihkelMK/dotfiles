@@ -1,0 +1,5 @@
+export AMD_VULKAN_ICD=RADV
+export EDITOR=/usr/bin/nvim
+export BROWSER=zen-browser
+export TERM=xterm-kitty
+export MAIL=thunderbird
