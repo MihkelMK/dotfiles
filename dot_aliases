@@ -9,6 +9,7 @@ alias ls="exa --icons --time-style=long-iso --group-directories-first"
 alias l="ls -l"
 alias la="ls -la"
 
+alias cm="chezmoi"
 alias diff="delta"
 alias grep="rg"
 alias find="fd"
